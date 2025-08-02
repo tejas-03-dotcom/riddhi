@@ -8,7 +8,7 @@ import io
 app = Flask(__name__)
 
 # Set path to Tesseract if needed
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 def enhance_image(img):
