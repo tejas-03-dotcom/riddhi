@@ -1,5 +1,5 @@
-flask
-pillow
-pytesseract
-textblob
+Flask
 gunicorn
+pytesseract
+pillow
+textblob
