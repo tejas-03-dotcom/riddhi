@@ -2,3 +2,4 @@ flask
 pillow
 pytesseract
 textblob
+gunicorn
